@@ -2,6 +2,9 @@
 
 Pokémon on the left, system info on the right — every new terminal window.
 
+<img width="935" height="430" alt="image" src="https://github.com/user-attachments/assets/e304b895-1e2e-4a8e-b1b1-349ffaf58ec0" />
+
+
 ---
 
 ## Install required packages
