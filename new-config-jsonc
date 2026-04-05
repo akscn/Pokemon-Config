@@ -1,1 +1,23 @@
-
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": { "padding": { "top": 1 } },
+  "display": { "separator": " → " },
+  "modules": [
+    "break",
+    { "type": "os",           "key": "\uF303 DISTRO",  "keyColor": "yellow" },
+    { "type": "kernel",       "key": "\u2502 \u251C\uF17C", "keyColor": "yellow" },
+    { "type": "packages",     "key": "\u2502 \u251C\uF487", "keyColor": "yellow" },
+    { "type": "shell",        "key": "\u2502 \u2514\uE795", "keyColor": "yellow" },
+    { "type": "wm",           "key": "\uF108 DE/WM",   "keyColor": "blue" },
+    { "type": "terminalfont", "key": "\u2502 \u251C\uF031", "keyColor": "blue" },
+    { "type": "terminal",     "key": "\u2502 \u2514\uE795", "keyColor": "blue" },
+    { "type": "host",         "key": "\uF109 SYSTEM",  "keyColor": "green" },
+    { "type": "cpu",          "key": "\u2502 \u251C\uE266", "keyColor": "green" },
+    { "type": "gpu",          "key": "\u2502 \u251C\uF80B", "keyColor": "green" },
+    { "type": "display",      "key": "\u2502 \u251C\uF878", "keyColor": "green" },
+    { "type": "memory",       "key": "\u2502 \u251C\uF1C0", "keyColor": "green" },
+    { "type": "uptime",       "key": "\u2502 \u2514\uF017", "keyColor": "green" },
+    { "type": "sound",        "key": "\uF028 AUDIO",   "keyColor": "magenta" },
+    "break"
+  ]
+}
