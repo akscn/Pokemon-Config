@@ -15,7 +15,7 @@
     { "type": "cpu",          "key": "\u2502 \u251C\uE266", "keyColor": "green" },
     { "type": "gpu",          "key": "\u2502 \u251C\uF80B", "keyColor": "green" },
     { "type": "display",      "key": "\u2502 \u251C\uF878", "keyColor": "green" },
-    { "type": "memory",       "key": "\u2502 \u251C\uF1C0", "keyColor": "green" },
+    { "type": "memory",       "key": "\u2502 \u251C\uDB80\uDF5B", "keyColor": "green" },
     { "type": "uptime",       "key": "\u2502 \u2514\uF017", "keyColor": "green" },
     { "type": "sound",        "key": "\uF028 AUDIO",   "keyColor": "magenta" },
     "break"
